@@ -21,11 +21,11 @@
 
 
 # <h2>Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> </h2>
-  - **Languages**: C#, JavaScript, SQL  
-  - **Frameworks**: ASP.NET Core, MVC, Entity Framework, Bootstrap  
-  - **Tools**: Git, GitLab, Docker, Postman, Visual Studio, JIRA  
-  - **Databases**: Microsoft SQL Server, MySQL  
-  - **Web Development**: HTML5, CSS3, AJAX, JSON, REST APIs    
+  - **Languages**: C#, JavaScript, SQL, AJAX, JSON,
+  - **Frameworks**: .NET Core, ASP.NET Framework, ADO.NET, Entity Framework  
+  - **Tools**: Git, GitLab, Linux, Docker, Postman, Visual Studio, JIRA  
+  - **Databases**: Microsoft SQL Server, MySQL
+  - **Web Development**: HTML5, CSS3, REST APIs    
   - **Other**: OOPs, Server-Side Scripting, Design Patterns
 
 # <h2>My Socials <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' alt="Fire" width="20"> </h2>
