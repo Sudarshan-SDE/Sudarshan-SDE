@@ -16,7 +16,7 @@
 
 
 # <h2>About me <img src="https://github.com/SudarshanGithub96/SudarshanGithub96/blob/main/information.png" width="20" alt="icon"></h2>
-  - <p>👋 Hi! I'm Sudarshan Sharma, a full-stack developer from India, I specialize in designing and developing robust web applications using .NET technologies and have a strong passion for creating innovative solutions.</p>
+  - <p>👋 Hi! I'm Sudarshan Sharma, a full-stack developer, I specialize in designing and developing robust web applications using .NET technologies and have a strong passion for creating innovative solutions.</p>
   - <p>".NET Developer with over 1.5 years of hands-on experience in all phases of the Software Development Life Cycle (SDLC), including requirements gathering, design, development, testing, and deployment of web-based applications using .NET technologies. Proficient in Agile methodologies such as Scrum and experienced in building scalable, high-performance applications."</p>
 
 
