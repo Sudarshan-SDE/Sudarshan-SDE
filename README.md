@@ -3,11 +3,6 @@
 <h1 align="center"> Hi 👋, I'm <i>Sudarshan Sharma</i></h1>
 <h2 align="center">.Net Developer </h2>
 
-<video width="400" height="285" controls>
-  <source src="https://github.com/Sudarshan-SDE/Sudarshan-SDE/blob/main/video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 <p align="left" style="font-size: 18px; font-family: Arial, sans-serif;"> 
    <img src="https://komarev.com/ghpvc/?username=sudarshangithub96&label=Profile%20views&color=045afa&style=flat" 
     alt="Profile Views"/>
