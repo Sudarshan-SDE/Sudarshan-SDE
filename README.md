@@ -9,13 +9,13 @@
     alt="Profile Views"/>
 </p>
 
-# <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/4946/4946348.png" alt="icon of todo list" width="20" /></h2>
+# <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/4946/4946348.png" alt="icon of todo list" width="25" /></h2>
   - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman in Middle East</a>  
   - <a href="https://ataljal.mowr.gov.in/" target="_blank">Atal Bhujal Yojana (Atal Jal) - Ministry of Jal Shakti</a>  
   - <a href="https://kreatenergy.ae/" target="_blank">Kreate Energy FZE</a>
 
 
-# <h2>About me <img src="https://cdn-icons-png.flaticon.com/128/785/785822.png" width="20" alt="icon"></h2>
+# <h2>About me <img src="https://cdn-icons-png.flaticon.com/128/785/785822.png" width="25" alt="icon"></h2>
   - <p>👋 Hi! I'm Sudarshan Sharma, a Full-Stack Dotnet Developer, I specialize in designing and developing robust web applications using .NET technologies and have a strong passion for creating innovative solutions.</p>
   - <p>".NET Developer with over 1.5 years of hands-on experience in all phases of the Software Development Life Cycle (SDLC), including requirements gathering, design, development, testing, and deployment of web-based applications using .NET technologies. Proficient in Agile methodologies such as Scrum and experienced in building scalable, high-performance applications."</p>
 
@@ -28,7 +28,7 @@
   - **Web Development**: HTML5, CSS3, REST APIs    
   - **Other**: OOPs, Server-Side Scripting, Design Patterns
 
-# <h2>My Socials <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' alt="Fire" width="20"> </h2>
+# <h2>My Socials <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' alt="Fire" width="25"> </h2>
 > I've been active across various platforms, whether it's for learning, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
 - <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="20" /> **LinkedIn**: [sudarshan-sharma-sde](https://www.linkedin.com/in/sudarshan-sharma-sde/)
 - <img src="https://m.media-amazon.com/images/I/519Hta3Km9L.png" alt="Naukri.com" width="20" /> **Naukri.com**: [sudarshan-sharma/profile](https://www.naukri.com/mnjuser/profile)
