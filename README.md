@@ -31,6 +31,7 @@
 # <h2>My Socials <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' alt="Fire" width="20"> </h2>
 > I've been active across various platforms, whether it's for learning, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
 - <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="20" /> **LinkedIn**: [sudarshan-sharma-sde](https://www.linkedin.com/in/sudarshan-sharma-sde/)
+- <img src="https://www.flaticon.com/free-icon/linkedin_2504923" alt="LinkedIn" width="20" /> **LinkedIn**: [sudarshan-sharma-sde](https://www.linkedin.com/in/sudarshan-sharma-sde/)
 - <img src="https://m.media-amazon.com/images/I/519Hta3Km9L.png" alt="Naukri.com" width="20" /> **Naukri.com**: [sudarshan-sharma/profile](https://www.naukri.com/mnjuser/profile)
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" alt="Shine.com" width="20" /> **Shine.com**: [Sudarshan-sharma/profile](https://www.shine.com/myshine/myprofile/)
 - <img src="https://cdn-icons-png.flaticon.com/512/10198/10198940.png" alt="Leetcode" width="20" /> **Leetcode**: [SudarshanSDE](https://leetcode.com/u/SudarshanSDE/)
