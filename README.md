@@ -9,7 +9,7 @@
     alt="Profile Views"/>
 </p>
 
-# <h2>Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="20" /></h2>
+# <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/785/785822.png" alt="icon of todo list" width="20" /></h2>
   - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman in Middle East</a>  
   - <a href="https://ataljal.mowr.gov.in/" target="_blank">Atal Bhujal Yojana (Atal Jal) - Ministry of Jal Shakti</a>  
   - <a href="https://kreatenergy.ae/" target="_blank">Kreate Energy FZE</a>
