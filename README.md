@@ -21,7 +21,7 @@
 
 
 # <h2>Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> </h2>
-  - **Languages**: C#, JavaScript, SQL, AJAX, JSON,
+  - <img src="https://cdn-icons-png.flaticon.com/128/3898/3898082.png" alt="Languages" width="20" /> **Languages**: C#, JavaScript, SQL, AJAX, JSON,
   - **Frameworks**: .NET Core, ASP.NET Framework, ADO.NET, Entity Framework  
   - **Tools**: Git, GitLab, Linux, Docker, Postman, Visual Studio, JIRA  
   - **Databases**: Microsoft SQL Server, MySQL
