@@ -36,7 +36,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/10198/10198940.png" alt="Leetcode" width="20" /> **Leetcode**: [SudarshanSDE](https://leetcode.com/u/SudarshanSDE/)
 - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" width="20" /> **Stack Overflow**: [sudarshan-sharma/profile](https://stackoverflow.com/users/21991230/sudarshan-sharma?tab=profile)
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" /> **Email**: [sudarshans2k21@gmail.com](mailto:sudarshans2k21@gmail.com)
-- <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png" alt="Email" width="20" /> **Email**: [Sudarshan-SDE]
+- <img src="https://cdn-icons-png.flaticon.com/128/25/25657.png" alt="Email" width="20" /> **Github**: [Sudarshan-SDE](https://github.com/Sudarshan-SDE)
 
 ---
 <h3 align="left">Languages and Tools:</h3>
