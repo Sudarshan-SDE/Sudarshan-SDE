@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sudarshan-SDE/Sudarshan-SDE/blob/main/LinkedIn_Banner.png)
 
 <h1 align="center"> Hi 👋, I'm <i>Sudarshan Sharma</i></h1>
-<h2 align="center">.Net Developer <img src="https://cdn-icons-png.flaticon.com/128/15466/15466100.png" alt="Dotnet" width="30" /></h2>
+<p align="center">.Net Developer <img src="https://cdn-icons-png.flaticon.com/128/15466/15466100.png" alt="Dotnet" width="30" /></p>
 
 <img align="right" alt="Coding" width="400" height="285" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 <p align="left" style="font-size: 18px; font-family: Arial, sans-serif;"> 
