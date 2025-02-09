@@ -25,7 +25,7 @@
   - <img src="https://cdn-icons-png.flaticon.com/128/8743/8743589.png" alt="Frameworks" width="23" /> **Frameworks**: .NET Core, ASP.NET Framework, ADO.NET, Entity Framework  
   - <img src="https://cdn-icons-png.flaticon.com/128/675/675579.png" alt="Tools" width="25" /> **Tools**: Git, GitLab, Linux, Docker, Postman, Visual Studio, JIRA  
   - <img src="https://cdn-icons-png.flaticon.com/128/9698/9698555.png" alt="Databases" width="25" /> **Databases**: Microsoft SQL Server, MySQL
-  - <img src="https://cdn-icons-png.flaticon.com/128/841/841364.png" alt="Web Development" width="25" /> **Web Development**: HTML5, CSS3, REST APIs    
+  - <img src="https://cdn-icons-png.flaticon.com/128/841/841364.png" alt="Web Development" width="26" /> **Web Development**: HTML5, CSS3, REST APIs    
   - <img src="https://cdn-icons-png.flaticon.com/128/3357/3357334.png" alt="Other" width="28" /> **Other**: OOPs, Server-Side Scripting, Design Patterns
 
 # <h2>My Socials <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' alt="Fire" width="25"> </h2>
