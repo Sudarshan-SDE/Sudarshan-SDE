@@ -36,7 +36,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" width="20" /> **Stack Overflow**: [sudarshan-sharma/profile](https://stackoverflow.com/users/21991230/sudarshan-sharma?tab=profile)
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" /> **Email**: [sudarshans2k21@gmail.com](mailto:sudarshans2k21@gmail.com)
 - <img src="https://cdn-icons-png.flaticon.com/128/270/270798.png" alt="Github" width="20" /> **Github**: [Sudarshan-SDE](https://github.com/Sudarshan-SDE)
-- <img src="https://cdn-icons-png.flaticon.com/128/1091/1091007.png" alt="Resume" width="20" /> **Resume**: [Sudarshan-Resume](https://github.com/Sudarshan-SDE/Sudarshan-SDE/blob/main/SudarshanResume.pdf)
+- <img src="https://cdn-icons-png.flaticon.com/128/1091/1091007.png" alt="Resume" width="20" /> **Resume**: [Sudarshan-Resume](https://github.com/Sudarshan-SDE/Sudarshan-SDE/blob/main/Sudarshan_Resume.pdf)
 
 ---
 <h3 align="left">Languages and Tools:</h3>
