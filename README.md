@@ -21,12 +21,12 @@
 
 
 # <h2>Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> </h2>
-  - <img src="https://cdn-icons-png.flaticon.com/128/3898/3898082.png" alt="Languages" width="25" /> **Languages**: C#, JavaScript, SQL, AJAX, JSON,
+  - <img src="https://cdn-icons-png.flaticon.com/128/3898/3898082.png" alt="Languages" width="25" /> **Programming Languages**: CSharp (C#), AJAX, JSON,
   - <img src="https://cdn-icons-png.flaticon.com/128/8743/8743589.png" alt="Frameworks" width="23" /> **Frameworks**: .NET Core, ASP.NET Framework, ADO.NET, Entity Framework  
-  - <img src="https://cdn-icons-png.flaticon.com/128/675/675579.png" alt="Tools" width="25" /> **Tools**: Git, GitLab, Linux, Docker, Postman, Visual Studio, JIRA  
+  - <img src="https://cdn-icons-png.flaticon.com/128/675/675579.png" alt="Tools" width="25" /> **Tools**: Git, GitLab, GitLab, Docker, Postman, Visual Studio, VS Code, JIRA  
   - <img src="https://cdn-icons-png.flaticon.com/128/9698/9698555.png" alt="Databases" width="25" /> **Databases**: Microsoft SQL Server, MySQL
-  - <img src="https://cdn-icons-png.flaticon.com/128/841/841364.png" alt="Web Development" width="26" /> **Web Development**: HTML5, CSS3, REST APIs    
-  - <img src="https://cdn-icons-png.flaticon.com/128/3357/3357334.png" alt="Other" width="28" /> **Other**: OOPs, Server-Side Scripting, Design Patterns
+  - <img src="https://cdn-icons-png.flaticon.com/128/841/841364.png" alt="Web Development" width="26" /> **Web Development**: HTML5, CSS3, JavaScript, jQuery, REST APIs, React    
+  - <img src="https://cdn-icons-png.flaticon.com/128/3357/3357334.png" alt="Other" width="28" /> **Other**: OOPs, Linux , Design Patterns
 
 # <h2>My Socials <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' alt="Fire" width="25"> </h2>
 > I've been active across various platforms, whether it's for learning, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
