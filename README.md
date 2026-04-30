@@ -9,8 +9,8 @@
 </p>
 
 # <h2>About me <img src="https://cdn-icons-png.flaticon.com/128/785/785822.png" width="25" alt="icon"></h2>
-  - <p>👋 Hi! I'm Sudarshan Sharma, a Full-Stack Application Software Developer, I specialize in designing and developing robust web applications using .NET technologies and have a strong passion for creating innovative solutions.</p>
-  - <p>".NET Developer with over 1.9 years of hands-on experience in all phases of the Software Development Life Cycle (SDLC), including requirements gathering, design, development, testing, and deployment of web-based applications using .NET Technologies. Proficient in Agile methodologies such as Scrum and experienced in building scalable, high-performance applications."</p>
+  - <p>👋 Hi! I'm Sudarshan Sharma, a passionate Full-Stack Application Software Developer with 4.5+ years of experience in the IT industry, including 3+ years as a .NET Developer and 1.5 years as a Network Engineer.</p>
+  - <p>"Currently, I’m working as an Application Software .NET Developer at Akal Information Systems Ltd., New Delhi, where I contribute to government-based client projects. My role focuses on building secure, scalable, and enterprise-grade web applications. I primarily work with ASP.NET Core, Web API, and SQL Server, applying best practices like Clean Architecture, 3-tier architecture, Object-Oriented Programming (OOP), and SOLID principles to deliver maintainable and high-performance solutions. I have hands-on experience across all phases of the Software Development Life Cycle (SDLC), including requirements analysis, design, development, testing, and deployment, and I actively follow Agile methodologies such as Scrum."</p>
 
 
 # <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/4946/4946348.png" alt="icon of todo list" width="25" /></h2>
