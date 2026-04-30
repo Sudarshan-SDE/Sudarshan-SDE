@@ -8,18 +8,18 @@
     alt="Profile Views"/>
 </p>
 
+# <h2>About me <img src="https://cdn-icons-png.flaticon.com/128/785/785822.png" width="25" alt="icon"></h2>
+  - <p>👋 Hi! I'm Sudarshan Sharma, a Full-Stack Application Software Developer, I specialize in designing and developing robust web applications using .NET technologies and have a strong passion for creating innovative solutions.</p>
+  - <p>".NET Developer with over 1.9 years of hands-on experience in all phases of the Software Development Life Cycle (SDLC), including requirements gathering, design, development, testing, and deployment of web-based applications using .NET Technologies. Proficient in Agile methodologies such as Scrum and experienced in building scalable, high-performance applications."</p>
+
+
 # <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/4946/4946348.png" alt="icon of todo list" width="25" /></h2>
   - <a href="https://kreatetechnologies.om/" target="_blank">Vigilance Status Portal</a>
   - <a href="https://cvois.cvc.gov.in/" target="_blank">Chief Vigilance Officer Information System</a>
   - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman in Middle East</a>  
   - <a href="https://ataljal.mowr.gov.in/" target="_blank">Atal Bhujal Yojana (Atal Jal) - Ministry of Jal Shakti</a>  
   - <a href="https://kreatenergy.ae/" target="_blank">Kreate Energy FZE</a>
-  
 
-
-# <h2>About me <img src="https://cdn-icons-png.flaticon.com/128/785/785822.png" width="25" alt="icon"></h2>
-  - <p>👋 Hi! I'm Sudarshan Sharma, a Full-Stack Application Software Developer, I specialize in designing and developing robust web applications using .NET technologies and have a strong passion for creating innovative solutions.</p>
-  - <p>".NET Developer with over 1.9 years of hands-on experience in all phases of the Software Development Life Cycle (SDLC), including requirements gathering, design, development, testing, and deployment of web-based applications using .NET Technologies. Proficient in Agile methodologies such as Scrum and experienced in building scalable, high-performance applications."</p>
 
 
 # <h2>Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> </h2>
