@@ -36,7 +36,6 @@
 > I've been active across various platforms, whether it's for learning, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
 - <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="LinkedIn" width="20" /> **LinkedIn**: [sudarshan-sharma-sde](https://www.linkedin.com/in/sudarshan-sharma-sde/)
 - <img src="https://m.media-amazon.com/images/I/519Hta3Km9L.png" alt="Naukri.com" width="20" /> **Naukri.com**: [sudarshan-sharma/profile](https://www.naukri.com/mnjuser/profile)
-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968873.png" alt="Shine.com" width="20" /> **Shine.com**: [Sudarshan-sharma/profile](https://www.shine.com/myshine/myprofile/)
 - <img src="https://cdn-icons-png.flaticon.com/512/10198/10198940.png" alt="Leetcode" width="20" /> **Leetcode**: [SudarshanSDE](https://leetcode.com/u/SudarshanSDE/)
 - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" width="20" /> **Stack Overflow**: [sudarshan-sharma/profile](https://stackoverflow.com/users/21991230/sudarshan-sharma?tab=profile)
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="20" /> **Email**: [sudarshans2k21@gmail.com](mailto:sudarshans2k21@gmail.com)
