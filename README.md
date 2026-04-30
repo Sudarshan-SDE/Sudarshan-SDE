@@ -9,10 +9,12 @@
 </p>
 
 # <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/4946/4946348.png" alt="icon of todo list" width="25" /></h2>
+  - <a href="https://kreatetechnologies.om/" target="_blank">Vigilance Status Portal</a>
+  - <a href="https://cvois.cvc.gov.in/" target="_blank">Chief Vigilance Officer Information System</a>
   - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman in Middle East</a>  
   - <a href="https://ataljal.mowr.gov.in/" target="_blank">Atal Bhujal Yojana (Atal Jal) - Ministry of Jal Shakti</a>  
   - <a href="https://kreatenergy.ae/" target="_blank">Kreate Energy FZE</a>
-  - <a href="https://cvc.gov.in/" target="_blank">CENTRAL VIGILANCE COMMISSION</a>
+  
 
 
 # <h2>About me <img src="https://cdn-icons-png.flaticon.com/128/785/785822.png" width="25" alt="icon"></h2>
