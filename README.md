@@ -13,15 +13,6 @@
   - <p>"Currently, I’m working as an Application Software .NET Developer at Akal Information Systems Ltd., New Delhi, where I contribute to government-based client projects. My role focuses on building secure, scalable, and enterprise-grade web applications. I primarily work with ASP.NET Core, Web API, and SQL Server, applying best practices like Clean Architecture, 3-tier architecture, Object-Oriented Programming (OOP), and SOLID principles to deliver maintainable and high-performance solutions. I have hands-on experience across all phases of the Software Development Life Cycle (SDLC), including requirements analysis, design, development, testing, and deployment, and I actively follow Agile methodologies such as Scrum."</p>
 
 
-# <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/4946/4946348.png" alt="icon of todo list" width="25" /></h2>
-  - <a href="https://kreatetechnologies.om/" target="_blank">Vigilance Status Portal</a>
-  - <a href="https://cvois.cvc.gov.in/" target="_blank">Chief Vigilance Officer Information System</a>
-  - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman in Middle East</a>  
-  - <a href="https://ataljal.mowr.gov.in/" target="_blank">Atal Bhujal Yojana (Atal Jal) - Ministry of Jal Shakti</a>  
-  - <a href="https://kreatenergy.ae/" target="_blank">Kreate Energy FZE</a>
-
-
-
 # <h2>Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> </h2>
   - <img src="https://cdn-icons-png.flaticon.com/128/3898/3898082.png" alt="Languages" width="25" /> **Programming Languages**: CSharp (C#), AJAX, JSON,
   - <img src="https://cdn-icons-png.flaticon.com/128/8743/8743589.png" alt="Frameworks" width="23" /> **Frameworks**: .NET Core, ASP.NET Framework, ADO.NET, Entity Framework  
@@ -29,6 +20,15 @@
   - <img src="https://cdn-icons-png.flaticon.com/128/9698/9698555.png" alt="Databases" width="25" /> **Databases**: Microsoft SQL Server, MySQL
   - <img src="https://cdn-icons-png.flaticon.com/128/841/841364.png" alt="Web Development" width="26" /> **Web Development**: HTML5, CSS3, JavaScript, jQuery, REST APIs, React    
   - <img src="https://cdn-icons-png.flaticon.com/128/3357/3357334.png" alt="Other" width="28" /> **Other**: OOPs, Linux , Design Patterns
+
+
+# <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/4946/4946348.png" alt="icon of todo list" width="25" /></h2>
+  - <a href="https://kreatetechnologies.om/" target="_blank">Vigilance Status Portal</a>
+  - <a href="https://cvois.cvc.gov.in/" target="_blank">Chief Vigilance Officer Information System</a>
+  - <a href="https://kreatetechnologies.om/" target="_blank">Innovative IT and AI Solutions Provider in Oman in Middle East</a>  
+  - <a href="https://ataljal.mowr.gov.in/" target="_blank">Atal Bhujal Yojana (Atal Jal) - Ministry of Jal Shakti</a>  
+  - <a href="https://kreatenergy.ae/" target="_blank">Kreate Energy FZE</a>
+
 
 # <h2>My Socials <img src='https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png' alt="Fire" width="25"> </h2>
 > I've been active across various platforms, whether it's for learning, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
