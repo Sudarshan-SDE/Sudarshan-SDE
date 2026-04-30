@@ -21,7 +21,7 @@
   - <img src="https://cdn-icons-png.flaticon.com/128/841/841364.png" alt="Web Development" width="26" /> **Web Technologies**: HTML, CSS, Bootstrap, jQuery  
   - <img src="https://cdn-icons-png.flaticon.com/128/3357/3357334.png" alt="Other" width="28" /> **Security**: JWT Authentication and Authorization, Content Security Policy (CSP), URL Encryption
   - <img src="https://cdn-icons-png.flaticon.com/128/675/675579.png" alt="Tools" width="25" /> **Tools**: Git, Github, Docker, Postman, Visual Studio, VS Code, JIRA
-  - <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3.svg" width="28" style="color: #58a6ff;" /> **Architecture & Concepts**: OOPs, SOLID Principles, Design Patterns, RESTful APIs, Dependency Injection, Middleware, Clean Architecture, Repository Pattern, 3-Layered Architecture
+  - <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/diagram-3.svg" width="28" style="color: #ffffff;" /> **Architecture & Concepts**: OOPs, SOLID Principles, Design Patterns, RESTful APIs, Dependency Injection, Middleware, Clean Architecture, Repository Pattern, 3-Layered Architecture
 
 
 # <h2>Projects <img src="https://cdn-icons-png.flaticon.com/128/4946/4946348.png" alt="icon of todo list" width="25" /></h2>
