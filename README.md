@@ -1,4 +1,4 @@
-![logo](https://github.com/Sudarshan-SDE/Sudarshan-SDE/blob/main/LinkedIn_Banner.png)
+![logo](https://github.com/Sudarshan-SDE/Sudarshan-SDE/blob/main/github_banner.png)
 
 <h1 align="center">Hi 👋, I'm <i>Sudarshan Sharma</i></h1>
 <h2 align="center">Full Stack .Net Developer</h2>
