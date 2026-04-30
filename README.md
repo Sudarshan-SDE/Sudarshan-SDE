@@ -17,6 +17,7 @@
   - <img src="https://cdn-icons-png.flaticon.com/128/3898/3898082.png" alt="Languages" width="25" /> **Programming Languages**: C#, SQL, JavaScript,
   - <img src="https://cdn-icons-png.flaticon.com/128/8743/8743589.png" alt="Frameworks" width="23" /> **Frameworks**: .NET Core, ASP.NET Core Web API, Angular    
   - <img src="https://cdn-icons-png.flaticon.com/128/9698/9698555.png" alt="Databases" width="25" /> **Databases**: Microsoft SQL Server, MySQL
+  - <img src="https://cdn-icons-png.flaticon.com/128/9698/9698555.png" alt="Databases" width="25" /> **Data Access & ORM**: ADO.NET, Dapper, LINQ, Entity Framework Core
   - <img src="https://cdn-icons-png.flaticon.com/128/841/841364.png" alt="Web Development" width="26" /> **Web Technologies**: HTML, CSS, Bootstrap, jQuery  
   - <img src="https://cdn-icons-png.flaticon.com/128/3357/3357334.png" alt="Other" width="28" /> **Security**: JWT Authentication and Authorization, Content Security Policy (CSP), URL Encryption
   - <img src="https://cdn-icons-png.flaticon.com/128/675/675579.png" alt="Tools" width="25" /> **Tools**: Git, Github, Docker, Postman, Visual Studio, VS Code, JIRA
